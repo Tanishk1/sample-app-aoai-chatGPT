@@ -13,6 +13,7 @@ import { nord } from 'react-syntax-highlighter/dist/esm/styles/prism'
 
 import styles from './Chat.module.css'
 import Contoso from '../../assets/Contoso.svg'
+import NSM from '../../assets/NSM-logo-main_lg.png'
 import { XSSAllowTags } from '../../constants/sanatizeAllowables'
 
 import {
